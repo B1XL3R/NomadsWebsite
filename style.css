@@ -51,6 +51,12 @@ h1 {
   width: 150px;
 }
 
+#footer {
+  float: bottom;
+  height: 100px;
+  width: 1000px;
+}
+
 #nav {
   clear: left;
   border: 2px black solid;
