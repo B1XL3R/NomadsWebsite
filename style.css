@@ -45,7 +45,9 @@ h1 {
 }
 
 #logo2 {
-  float: right;
+  position: relative;
+  top: 0px;
+  right: 0px;
   height: 150px;
   width: 150px;
 }
