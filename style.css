@@ -45,6 +45,7 @@ h1 {
 }
 
 #nav {
+  clear: left;
   border: 2px black solid;
   float: center;
   width: 700px;
