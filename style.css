@@ -40,7 +40,8 @@ h1 {
 
 #logo {
   float: left;
-  size: 100px;
+  height: 100px;
+  width: 100px;
 }
 
 #nav {
