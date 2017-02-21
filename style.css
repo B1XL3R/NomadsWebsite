@@ -45,9 +45,9 @@ h1 {
 }
 
 #nav {
-  clear:middle;
+  clear:left;
   border: 2px black solid;
-  float: middle;
+  float: middle;;
   width: 700px;
 }
 
