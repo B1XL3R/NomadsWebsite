@@ -31,7 +31,7 @@ background-color:#FF8333;
 }
 
 h1 {
-  float: left;
+  float: top;
   font-size: 100px;
   margin-left: 50px;
   font-family: 'Graduate', cursive;
@@ -40,12 +40,11 @@ h1 {
 
 #logo {
   float: left;
-  height: 300px;
-  width: 300px;
+  height: 150px;
+  width: 150px;
 }
 
 #nav {
-  clear: middle;
   border: 2px black solid;
   float: middle;;
   width: 700px;
