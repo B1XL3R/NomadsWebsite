@@ -10,10 +10,11 @@
     </div>
     <div id="nav">
       <ul>
-        <li><a href="litter.php">Kitty Litter</a></li>
-        <li><a href="cats_in_hats.php">Cats in Hats</a></li>
-        <li><a href="comments.php">Comments</a></li>
-        <li><a href="icecream.php">Icecream</a></li>
+        <li><a href="index.php">Home</a></li>
+        <li><a href="roster.php">Roster</a></li>
+        <li><a href="upcoming.php">Upcoming Tournaments</a></li>
+        <li><a href="videos.php">Videos</a></li>
+        <li><a href="practices.php">Practice Schedule</a></li>
+        <li><a href="announcements.php">Announcements</a></li>
       </ul>
     </div>
-	</html>
