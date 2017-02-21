@@ -40,14 +40,14 @@ h1 {
 
 #logo {
   float: left;
+  contain: 300px;
 }
 
 #nav {
-  clear:left;
-  border: 1px black solid;
-  float: left;
-  width: 235px;
-  background-color: #AAA
+  clear:middle;
+  border: 2px black solid;
+  float: middle;
+  width: 700px;
 }
 
 #content {
