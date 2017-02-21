@@ -8,7 +8,7 @@
       <img id="logo" src="images/logo.jpg" />
       <h1>BSA Quidditch</h1>
     </div>
-    <div>
+    <div id="nav">
       <ul>
         <li><a href="index.php">Home</a></li>
         <li><a href="roster.php">Roster</a></li>
