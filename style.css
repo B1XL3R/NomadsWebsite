@@ -76,10 +76,18 @@ table tbody tr td {
   border: 1px black solid;
   padding: 5 5;
 }
-div.img {
+
+div.imgLeft {
     margin: 5px;
     border: 1px solid #ccc;
     float: left;
+    width: 300px;
+}
+
+div.imgRight {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: right;
     width: 300px;
 }
 
