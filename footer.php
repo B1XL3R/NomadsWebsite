@@ -12,7 +12,7 @@
 	            <a href="https://plus.google.com/+Bootsnipp-page"><i id="social-gp" class="fa fa-google-plus-square fa-3x social"></i></a>
 	            <a href="mailto:bootsnipp@gmail.com"><i id="social-em" class="fa fa-envelope-square fa-3x social"></i></a>
 </div>
-    <hr>
+    <hr id="horizontal">
 </div>
 
 <br />
