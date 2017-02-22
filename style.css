@@ -65,6 +65,7 @@ h1 {
   border: 2px black solid;
   float: center;
   width: 675px;
+  height:auto;
   margin-right: 150px;
   margin-left: 150px;
 }
