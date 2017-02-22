@@ -83,7 +83,7 @@ div.img {
     float: center;
     width: 75%;
     height: auto;
-    margin-right: 25%;
+    margin-left: 25%;
 }
 
 div.img:hover {
