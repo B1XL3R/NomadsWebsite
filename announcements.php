@@ -14,7 +14,7 @@
     </ul>
   </div>
 
-<h2 id="center"> Team Announcements </h2>
+<h2 id="centerh2"> Team Announcements </h2>
 
 <p>
 1. Practice schedule posted on Facebook and this website.  <br />
@@ -28,8 +28,8 @@ cards. Quizlet also has an app so you can read them on the go. <br />
 </p>
 
 <hr> <br />
-<h2 id="center">Helpful Links</h2>
-  <div id="center">
+<h2 id="centerh2">Helpful Links</h2>
+  <div id="centerLinks">
 <a href="http://www.usquidditch.org/files/USQ_Rulebook_10.pdf">Quidditch Rule Book</a> &nbsp; &nbsp; &nbsp;
 <a href="https://quizlet.com/themunchkym/folders/us-quidditch-rulebook-tenth-edition">Rule Book Flash Cards</a> <br />
 <a href="https://www.facebook.com/groups/316777608428869/">Team Facebook Page</a> &nbsp; &nbsp; &nbsp;

@@ -85,7 +85,17 @@ h2{
 
 #center{
   width:700px;
-  margin-left: 400px;
+  margin-left: 0px;
+}
+
+#centerLinks{
+  width:700px;
+  margin-left: 350px;
+}
+
+#centerh2{
+  width:700px;
+  margin-left: 200px;
 }
 
 #horizontal{
