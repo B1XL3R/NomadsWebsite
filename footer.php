@@ -2,10 +2,10 @@
 
 
 <!-- // -->
-<div class="container">
-    <hr>
-        <div class="text-center center-block">
-            <p class="txt-railway">- Boise State abraxans -</p>
+<div id="center">
+    <hr id="horizontal">
+        <div>
+            <p>- Boise State abraxans -</p>
             <br />
               <a href="https://www.facebook.com/bootsnipp"><i id="social-fb" class="fa fa-facebook-square fa-3x social"></i></a>
 	            <a href="https://twitter.com/bootsnipp"><i id="social-tw" class="fa fa-twitter-square fa-3x social"></i></a>

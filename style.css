@@ -79,6 +79,16 @@ h1 {
   margin-bottom: 15px
 }
 
+#center{
+  width:700px;
+  margin-left: 400px;
+}
+
+#horizontal{
+  width:1000px;
+  margin-left: -400px;
+}
+
 table tbody tr td {
   border: 1px black solid;
   padding: 5 5;
