@@ -39,6 +39,9 @@ h1 {
   margin-bottom: 0px;
 }
 
+h2{
+  float: center;
+}
 #logo {
   float: left;
   height: 150px;
@@ -61,7 +64,7 @@ h1 {
 #nav {
   border: 2px black solid;
   float: center;
-  width: auto;
+  width: 650px;
   margin-right: 150px;
   margin-left: 175px;
 }

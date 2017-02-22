@@ -14,7 +14,7 @@
     </ul>
   </div>
 
-  <h2 id="center">2016/2017 Comptetitive Team Tournament Schedule</h2>
+  <h2>2016/2017 Comptetitive Team Tournament Schedule</h2>
   <p>Below is a list of the remaining tournaments the team will be attending this season, along with the results of tournaments that have already concluded</p>
 
   <table>
