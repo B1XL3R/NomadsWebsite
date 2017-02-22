@@ -1,7 +1,3 @@
-<img id="footer" src="images/footer.jpg" />
-
-
-<!-- // -->
 <div id="center">
     <hr id="horizontal">
         <div>
