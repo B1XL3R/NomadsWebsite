@@ -19,34 +19,46 @@
 
   <table>
     <tr>
-      <th>Tournament</th>
+      <th>Day</th>
+      <th>Time</th>
       <th>Location</th>
-      <th>Result</th>
     </tr>
     <tr>
-      <td>Crimson Cup</td>
-      <td>Salt Lake City, Utah</td>
-      <td>3rd Place, 4-2</td>
+      <td>Sunday</td>
+      <td>12:00 - 2:00</td>
+      <td>Turf Intramural Field</td>
     </tr>
     <tr>
-      <td>Top of Utah Classic</td>
-      <td>Logan, Utah</td>
-      <td>1st Place, 6-0</td>
+      <td>Monday</td>
+      <td>No Practice</td>
+      <td>No Practice</td>
     </tr>
     <tr>
-      <td>Tree City Tournament</td>
-      <td>Boise, Idaho</td>
-      <td>1st Place, 6-0</td>
+      <td>Tuesday</td>
+      <td>4:30 - 6:30</td>
+      <td>Turf Intramural Field</td>
     </tr>
     <tr>
-      <td>Regional Championship</td>
-      <td>Kennewick, Washington</td>
-      <td>March 4</td>
+      <td>Wednesdayp</td>
+      <td>No Practice</td>
+      <td>No Practice</td>
     </tr>
     <tr>
-      <td>National Championship</td>
-      <td>Kissimmee, Florida</td>
-      <td>April 8</td>
+      <td>Thursday</td>
+      <td>4:30 - 6:30</td>
+      <td>Turf Intramural Field</td>
+    </tr>
+
+    <tr>
+      <td>Friday</td>
+      <td>No Practice</td>
+      <td>No Practice</td>
+    </tr>
+
+    <tr>
+      <td>Saturday</td>
+      <td>No Practice</td>
+      <td>No Practice</td>
     </tr>
   </table>
 
