@@ -14,14 +14,14 @@
     </ul>
   </div>
 
-  <iframe width="420" height="345" src="https://www.youtube.com/watch?v=IHHXFq2OhMI">
-  </iframe>
+  <object width="420" height="345" data="https://www.youtube.com/watch?v=IHHXFq2OhMI">
+  </object>
 
-  <iframe width="420" height="345" src="https://www.youtube.com/watch?v=Rxj38_vbfMs">
-  </iframe>
+  <object width="420" height="345" data="https://www.youtube.com/watch?v=Rxj38_vbfMs">
+  </objecte>
 
-  <iframe width="420" height="345" src="https://www.youtube.com/watch?v=3dJwoyOqPWY">
-  </iframe>
+  <object width="420" height="345" data="https://www.youtube.com/watch?v=3dJwoyOqPWY">
+  </objecte>
 
 
 <?php
