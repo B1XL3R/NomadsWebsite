@@ -14,6 +14,15 @@
     </ul>
   </div>
 
+  <iframe width="420" height="345" src="https://www.youtube.com/watch?v=IHHXFq2OhMI">
+  </iframe>
+
+  <iframe width="420" height="345" src="https://www.youtube.com/watch?v=Rxj38_vbfMs">
+  </iframe>
+
+  <iframe width="420" height="345" src="https://www.youtube.com/watch?v=3dJwoyOqPWY">
+  </iframe>
+
 
 <?php
   include('footer.php');
