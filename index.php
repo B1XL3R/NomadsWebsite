@@ -15,8 +15,8 @@
   </div>
 
   <div class="img">
-  <a target="_blank" href="img_fjords.jpg">
-    <img src="homeAnnouncement.jpg" alt="McKracken Snitch Catch" width="300" height="200">
+  <a target="_blank" href="homeAnnouncements.jpg">
+    <img src="images/homeAnnouncement.jpg" alt="McKracken Snitch Catch" width="300" height="200">
   </a>
   <div class="desc">Matt McKracken pulls the snitch to wint the game </div>
 </div>
