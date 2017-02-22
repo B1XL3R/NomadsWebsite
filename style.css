@@ -81,7 +81,8 @@ div.img {
     margin: 5px;
     border: 1px solid #ccc;
     float: left;
-    width: 25%;
+    width: 50%;
+    height: auto;
 }
 
 div.img:hover {
