@@ -40,7 +40,7 @@ h1 {
 }
 
 h2{
-  float: center;
+  text-align: center;
 }
 #logo {
   float: left;
