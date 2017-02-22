@@ -85,7 +85,7 @@ h2{
 
 #center{
   width:700px;
-  margin-left: 0px;
+  margin-left: 400px;
 }
 
 #centerLinks{
@@ -95,12 +95,17 @@ h2{
 
 #centerh2{
   width:700px;
-  margin-left: 200px;
+  margin-left: 100px;
 }
 
 #horizontal{
   width:1000px;
   margin-left: -400px;
+}
+
+#alignLeft{
+  width:700px;
+  text-align: left;
 }
 
 div.img {

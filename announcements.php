@@ -16,7 +16,7 @@
 
 <h2 id="centerh2"> Team Announcements </h2>
 
-<p>
+<p id="alignLeft">
 1. Practice schedule posted on Facebook and this website.  <br />
 2. Upcoming events posted on Facebook and this website. <br />
 3a. Study the rulebook (I recommend AT LEAST chapters 5 and 6 as they have the most player-based
