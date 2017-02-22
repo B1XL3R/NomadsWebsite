@@ -15,31 +15,31 @@
   </div>
 
   <div class="img">
-  <a target="_blank" href="images/homeAnnouncements.jpg">
-    <img src="images/homeAnnouncement.jpg" alt="McKracken Snitch Catch" width="300" height="200">
+  <a target="_blank" href="images/mattSnitchCatch.jpg">
+    <img src="images/mattSnitchCatch.jpg" alt="McKracken Snitch Catch" width="600" height="400">
   </a>
   <div class="desc">Matt McKracken pulls the snitch to wint the game </div>
 </div>
 
 <div class="img">
-  <a target="_blank" href="img_forest.jpg">
-    <img src="img_forest.jpg" alt="Forest" width="600" height="400">
+  <a target="_blank" href="images/bryanDunk.jpg">
+    <img src="images/bryanDunk.jpg" alt="Bryan Dunking on the opponents" width="600" height="400">
   </a>
-  <div class="desc">Add a description of the image here</div>
+  <div class="desc">Bryan Bixler dunks on the oposing team</div>
 </div>
 
 <div class="img">
-  <a target="_blank" href="img_lights.jpg">
-    <img src="img_lights.jpg" alt="Northern Lights" width="600" height="400">
+  <a target="_blank" href="images/boysCelebrate.jpg">
+    <img src="images/boysCelebrate.jpg" alt="Guys celebrating the tournament win" width="600" height="400">
   </a>
-  <div class="desc">Add a description of the image here</div>
+  <div class="desc">The guys celebrating the tournament win </div>
 </div>
 
 <div class="img">
-  <a target="_blank" href="img_mountains.jpg">
-    <img src="img_mountains.jpg" alt="Mountains" width="600" height="400">
+  <a target="_blank" href="images/vandyDunk.jpg">
+    <img src="images/vandyDunk.jpg" alt="Nick dunks on female chaser" width="600" height="400">
   </a>
-  <div class="desc">Add a description of the image here</div>
+  <div class="desc">Nick Van der sluys Veer dunks on Crimson Elite</div>
 </div>
 
 
