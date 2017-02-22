@@ -31,10 +31,11 @@ background-color:#FF8333;
 }
 
 h1 {
-  float: top;
+  /*float: top;*/
+  text-align: center;
   font-size: 75px;
-  margin-left: 200px;
-  margin-right: 50px;
+  /*margin-left: 200px;
+  margin-right: 50px;*/
   font-family: 'Graduate', cursive;
   margin-bottom: 0px;
 }
