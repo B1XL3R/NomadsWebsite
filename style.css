@@ -95,7 +95,7 @@ h2{
 
 #centerh2{
   width:700px;
-  margin-left: 100px;
+  margin-left: 150px;
 }
 
 #horizontal{
@@ -106,6 +106,7 @@ h2{
 #alignLeft{
   width:700px;
   text-align: left;
+  margin-left: 100px;
 }
 
 div.img {
