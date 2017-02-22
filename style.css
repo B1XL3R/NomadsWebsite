@@ -25,7 +25,7 @@ li a {
     text-decoration: none;
 }
 
-nav.a:hover:not(.active) {
+a:hover:not(.active) {
     background-color: #FF8333;
 }
 
