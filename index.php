@@ -14,6 +14,34 @@
     </ul>
   </div>
 
+  <div class="img">
+  <a target="_blank" href="img_fjords.jpg">
+    <img src="homeAnnouncement.jpg" alt="McKracken Snitch Catch" width="300" height="200">
+  </a>
+  <div class="desc">Matt McKracken pulls the snitch to wint the game </div>
+</div>
+
+<div class="img">
+  <a target="_blank" href="img_forest.jpg">
+    <img src="img_forest.jpg" alt="Forest" width="600" height="400">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="img">
+  <a target="_blank" href="img_lights.jpg">
+    <img src="img_lights.jpg" alt="Northern Lights" width="600" height="400">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="img">
+  <a target="_blank" href="img_mountains.jpg">
+    <img src="img_mountains.jpg" alt="Mountains" width="600" height="400">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
 
 <?php
   include('footer.php');
