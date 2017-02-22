@@ -84,13 +84,6 @@ div.imgLeft {
     width: 25%;
 }
 
-div.imgRight {
-    margin: 5px;
-    border: 1px solid #ccc;
-    float: right;
-    width: 25%;
-}
-
 div.img:hover {
     border: 1px solid #777;
 }
