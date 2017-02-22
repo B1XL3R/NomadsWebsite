@@ -14,6 +14,15 @@
     </ul>
   </div>
 
+  <div class="imgRoster">
+  <a target="_blank" href="images/roster.jpg">
+    <img src="images/roster.jpg" alt="Abraxans 2017 Roster" width="600" height="400">
+  </a>
+  <div class="desc">Back Row From left to right: Dylan Shilling, Matt McKracken, Bryan Bixler, Nick Hall,
+    Alex Johnson, Jessie Gibson, Kevin Kelly, Estefani De La Rosa. Front Row left to right: Nick Vandy, Jami Wyman,
+    Brenden Bixler, Spencer Adams.</div>
+  </div>
+
 
 <?php
   include('footer.php');

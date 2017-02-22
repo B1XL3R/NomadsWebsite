@@ -52,7 +52,7 @@ h1 {
 }
 
 #footer {
-  margin-top: 450px;
+  margin-top: 50px;
   float: bottom;
   height: 100px;
   width: 1000px;
@@ -85,6 +85,14 @@ div.img {
     height: auto;
     margin-left: 150px;
     margin-right: 150px;
+}
+
+div.imgRoster {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: center;
+    width: 100%;
+    height: auto;
 }
 
 div.img:hover {
