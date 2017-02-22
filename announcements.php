@@ -14,6 +14,25 @@
     </ul>
   </div>
 
+<h2> Team Announcements </h2>
+
+<p>This is where announcements will be located.
+1. Practice schedule.
+2. Upcoming events.
+3a. Study the rulebook (I recommend AT LEAST chapters 5 and 6 as they have the most player-based rules versus game rules, but you really should read the whole thing at least once).
+3b. The rulebook can be kind of intimidating, I know. So to help, we have these handy rulebook flash cards! Quizlet also has an app so you can read them on the go. :)
+4. Take the Assistant Referee test. Once you pass, take the Snitch Referee test. On the left side, Tier 5 and 4.
+5. Like our public page and invite all your friends.
+</p>
+
+<hr>
+<p>Helpful Links</p>
+<a href="http://www.usquidditch.org/files/USQ_Rulebook_10.pdf">Quidditch Rule Book</a>
+<a href="https://quizlet.com/themunchkym/folders/us-quidditch-rulebook-tenth-edition">Rule Book Flash Cards</a>
+<a href="https://www.facebook.com/groups/316777608428869/">Team Facebook Page</a>
+<a href="https://www.facebook.com/BSAQuidditch">Public Facebook Page</a>
+<a href="https://docs.google.com/document/d/1W2YQfNEA0jK3WAkl1-PMgz3YjF8SLl_c9G7qM8rZh-U/edit?usp=sharing">Jersey Numbers</a>
+<hr>
 
 <?php
   include('footer.php');
