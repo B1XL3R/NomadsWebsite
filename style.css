@@ -52,7 +52,6 @@ h1 {
   float: right;
   height: 150px;
   width: 150px;
-  padding: 15px;
 }
 
 #footer {
@@ -68,6 +67,7 @@ h1 {
   width: 700px;
   margin-right: 150px;
   margin-left: 150px;
+  padding: 15px;
 }
 
 #content {
