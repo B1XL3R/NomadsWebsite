@@ -61,10 +61,10 @@ h1 {
 #nav {
   clear: left;
   border: 2px black solid;
-  float: right;
+  float: center;
   width: 700px;
-  margin-right: 300px;
-  margin-left: 50px;
+  margin-right: 150px;
+  margin-left: 150px;
 }
 
 #content {
