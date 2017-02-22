@@ -14,22 +14,13 @@
     </ul>
   </div>
 
-  <html>
-    <body>
-      <iframe src="http://www.youtube.com/embed/W7qWa52k-nE" width="560" height="315" frameborder="0" allowfullscreen>
-      </iframe>
-    </body>
-  </html>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/IHHXFq2OhMI" frameborder="0" allowfullscreen></iframe>
 
-  <object width="420" height="345" data="https://www.youtube.com/watch?v=IHHXFq2OhMI">
-  </object>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/XwhqJhe0hzs" frameborder="0" allowfullscreen></iframe>
 
-  <object width="420" height="345" data="https://www.youtube.com/watch?v=Rxj38_vbfMs">
-  </objecte>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Rxj38_vbfMs" frameborder="0" allowfullscreen></iframe>
 
-  <object width="420" height="345" data="https://www.youtube.com/watch?v=3dJwoyOqPWY">
-  </objecte>
-
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/3dJwoyOqPWY" frameborder="0" allowfullscreen></iframe>
 
 <?php
   include('footer.php');
