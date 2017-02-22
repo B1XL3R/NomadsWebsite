@@ -72,6 +72,13 @@ h1 {
   padding-left: 20px;
 }
 
+#iframe {
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 15px;
+  margin-bottom: 15px
+}
+
 table tbody tr td {
   border: 1px black solid;
   padding: 5 5;
