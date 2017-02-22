@@ -18,7 +18,7 @@
   <a target="_blank" href="images/mattSnitchCatch.jpg">
     <img src="images/mattSnitchCatch.jpg" alt="McKracken Snitch Catch" width="600" height="400">
   </a>
-  <div class="desc">Matt McKracken pulls the snitch to wint the game </div>
+  <div class="desc">Matt McKracken pulls the snitch to win the game </div>
 </div>
 
 <div class="img">

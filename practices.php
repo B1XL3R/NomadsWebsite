@@ -14,8 +14,9 @@
     </ul>
   </div>
 
-  <h2>Striped Table</h2>
-  <p>For zebra-striped tables, use the nth-child() selector and add a background-color to all even (or odd) table rows:</p>
+  <h2 id="center">Spring 2017 Practice Schedule</h2>
+  <p>Please contact Captain Bryan Bixler or Manager Kevin Kelley for more information. </p>
+  <p>All practices are open to the public and new players may "try out" to be on the competitive team at any time. </p>
 
   <table>
     <tr>
