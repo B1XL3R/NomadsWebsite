@@ -5,7 +5,7 @@
   </head>
   <body>
     <div id="header">
-      <img id="logo" src="images/logo.jpg" />
+      <img id="logo" src="images/logo.png" />
       <img id="logo2" src="images/logo2.jpg" />
       <h1>NOMADS</h1>
     </div>
