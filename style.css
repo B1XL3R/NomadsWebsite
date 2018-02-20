@@ -23,11 +23,11 @@ li a {
 }
 
 a:hover:not(.active) {
-    background-color: #FF8333;
+    background-color: #F2BA77;
 }
 
 .active {
-background-color:#FF8333;
+background-color:#F2BA77;
 }
 
 h1 {
