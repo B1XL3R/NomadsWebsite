@@ -152,9 +152,9 @@ th, td {
     padding: 8px;
 }
 
-tr:nth-child(even){background-color: #F2BA77}
+tr:nth-child(even){background-color: black}
 
-tr:nth-child(odd){background-color: #F2BA77}
+tr:nth-child(odd){background-color: white}
 
 /*
 begin social media footer code
