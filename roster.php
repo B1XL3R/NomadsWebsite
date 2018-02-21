@@ -20,7 +20,9 @@
   </a>
   <div class="desc">Back Row From left to right: Wyatt Egger, Trey Klontz, Dylan Schilling, Alex Johnson, Hayley Hudson, Larsen Price, Nick Hall,
     Jami Wyman, Kevin Kelley, Max Bennett, Bryan Bixler, Estefani De La Rosa, Stew Driflot, Joel Johnson.
-    Front Row left to right: Spencer Adams, Nick Vandy, Matt McCracken, Brenden Bixler, Jessie Gibson, Andrew Brion, Mercedes Natali.</div>
+  </div>
+  </div>
+  <div class="desc">Front Row left to right: Spencer Adams, Nick Vandy, Matt McCracken, Brenden Bixler, Jessie Gibson, Andrew Brion, Mercedes Natali.</div>
   </div>
 
 
