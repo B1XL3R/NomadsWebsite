@@ -14,7 +14,7 @@
     </ul>
   </div>
 
-  <h2>2016/2017 Comptetitive Team Tournament Schedule</h2>
+  <h2>2017/2018 Comptetitive Team Tournament Schedule</h2>
   <p>Below is a list of the remaining tournaments the team will be attending this season, along with the results of tournaments that have already concluded</p>
 
   <table>
@@ -26,27 +26,27 @@
     <tr>
       <td>Crimson Cup</td>
       <td>Salt Lake City, Utah</td>
-      <td>3rd Place, 4-2</td>
-    </tr>
-    <tr>
-      <td>Top of Utah Classic</td>
-      <td>Logan, Utah</td>
       <td>1st Place, 6-0</td>
     </tr>
     <tr>
       <td>Tree City Tournament</td>
       <td>Boise, Idaho</td>
-      <td>1st Place, 6-0</td>
+      <td>1st Place, 5-0</td>
+    </tr>
+    <tr>
+      <td>Heroes vs Villains Invitational</td>
+      <td>Los Angeles, California</td>
+      <td>Co-1st Place, 5-1-1</td>
     </tr>
     <tr>
       <td>Regional Championship</td>
-      <td>Kennewick, Washington</td>
-      <td>March 4</td>
+      <td>Olympia, Washington</td>
+      <td>1st Place, 6-0</td>
     </tr>
     <tr>
       <td>National Championship</td>
-      <td>Kissimmee, Florida</td>
-      <td>April 8</td>
+      <td>Round Rock, Texas</td>
+      <td>April 14</td>
     </tr>
   </table>
 
