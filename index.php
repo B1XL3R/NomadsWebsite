@@ -15,31 +15,38 @@
   </div>
 
   <div class="img">
-  <a target="_blank" href="images/mattSnitchCatch.jpg">
-    <img src="images/mattSnitchCatch.jpg" alt="McKracken Snitch Catch" width="600" height="400">
+  <a target="_blank" href="images/mattTackle.jpg">
+    <img src="images/mattTackle.jpg" alt="McKracken Tackle" width="600" height="400">
   </a>
-  <div class="desc">Matt McKracken pulls the snitch to win the game </div>
+  <div class="desc">Matt McKracken tackles Cascadia Keeper Austin Sharp </div>
 </div>
 
 <div class="img">
-  <a target="_blank" href="images/bryanDunk.jpg">
-    <img src="images/bryanDunk.jpg" alt="Bryan Dunking on the opponents" width="600" height="400">
+  <a target="_blank" href="images/stewSnitchCatch.jpg">
+    <img src="images/stewSnitchCatch.jpg" alt="Stew Snitch Catch" width="600" height="400">
   </a>
-  <div class="desc">Bryan Bixler dunks on the oposing team</div>
+  <div class="desc">Stewart Driflot catching snitch</div>
 </div>
 
 <div class="img">
-  <a target="_blank" href="images/boysCelebrate.jpg">
-    <img src="images/boysCelebrate.jpg" alt="Guys celebrating the tournament win" width="600" height="400">
+  <a target="_blank" href="images/brendenThrowing.jpg">
+    <img src="images/brendenThrowing.jpg" alt="Brenden Throwing" width="600" height="400">
   </a>
-  <div class="desc">The guys celebrating the tournament win </div>
+  <div class="desc">Brenden Bixler beating Utah State players</div>
 </div>
 
 <div class="img">
-  <a target="_blank" href="images/vandyDunk.jpg">
-    <img src="images/vandyDunk.jpg" alt="Nick dunks on female chaser" width="600" height="400">
+  <a target="_blank" href="images/mattDunk.jpg">
+    <img src="images/mattDunk.jpg" alt="Matt dunks on Utah State" width="600" height="400">
   </a>
-  <div class="desc">Nick Van der sluys Veer dunks on Crimson Elite</div>
+  <div class="desc">Matt McCracken dunks on Utah State Chaser</div>
+</div>
+
+<div class="img">
+<a target="_blank" href="images/stewtackle.jpg">
+  <img src="images/stewtackle.jpg" alt="Stew Tackle" width="600" height="400">
+</a>
+<div class="desc">Stewart Driflot tackles Rain City Chaser </div>
 </div>
 
 
