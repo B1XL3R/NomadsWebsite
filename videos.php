@@ -14,25 +14,29 @@
   </div>
 
   <div id="iframe">
-    <iframe width="700" height="400" src="https://www.youtube.com/embed/IHHXFq2OhMI" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/3PlNa1MMbQA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   </div>
 
   <hr>
 
   <div id="iframe">
-    <iframe width="700" height="400" src="https://www.youtube.com/embed/XwhqJhe0hzs" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/SZr_0TS6Ulw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   </div>
 
   <hr>
 
   <div id="iframe">
-    <iframe width="700" height="400" src="https://www.youtube.com/embed/Rxj38_vbfMs" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/EJkzCyRAiGw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   </div>
 
   <hr>
 
   <div id="iframe">
-    <iframe width="700" height="400" src="https://www.youtube.com/embed/3dJwoyOqPWY" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/cUn-tW0QlAY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </div>
+
+  <div id="iframe">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/uNrOvNPTOBU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   </div>
 
 <?php
