@@ -18,9 +18,9 @@
   <a target="_blank" href="images/roster2.jpg">
     <img src="images/roster2.jpg" alt="Nomads 2017/18 Roster" width=1000px height=auto>
   </a>
-  <div class="desc">Back Row From left to right: Dylan Shilling, Matt McKracken, Bryan Bixler, Nick Hall,
-    Alex Johnson, Jessie Gibson, Kevin Kelly, Estefani De La Rosa. Front Row left to right: Nick Vandy, Jami Wyman,
-    Brenden Bixler, Spencer Adams.</div>
+  <div class="desc">Back Row From left to right: Wyatt Egger, Trey Klontz, Dylan Schilling, Alex Johnson, Hayley Hudson, Larsen Price, Nick Hall,
+    Jami Wyman, Kevin Kelley, Max Bennett, Bryan Bixler, Estefani De La Rosa, Stew Driflot, Joel Johnson.
+    Front Row left to right: Spencer Adams, Nick Vandy, Matt McCracken, Brenden Bixler, Jessie Gibson, Andrew Brion, Mercedes Natali.</div>
   </div>
 
 
