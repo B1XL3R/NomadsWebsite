@@ -33,7 +33,7 @@ cards. Quizlet also has an app so you can read them on the go. <br />
 <a href="http://www.usquidditch.org/files/USQ_Rulebook_10.pdf">Quidditch Rule Book</a> &nbsp; &nbsp; &nbsp;
 <a href="https://quizlet.com/themunchkym/folders/us-quidditch-rulebook-tenth-edition">Rule Book Flash Cards</a> <br />
 <a href="https://www.facebook.com/groups/316777608428869/">Team Facebook Page</a> &nbsp; &nbsp; &nbsp;
-<a href="https://www.facebook.com/BSAQuidditch">Public Facebook Page</a> <br />
+<a href="https://www.facebook.com/NMDQuidditch">Public Facebook Page</a> <br />
 <a href="https://docs.google.com/document/d/1W2YQfNEA0jK3WAkl1-PMgz3YjF8SLl_c9G7qM8rZh-U/edit?usp=sharing">Jersey Numbers</a> <br />
   </div>
 

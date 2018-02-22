@@ -1,7 +1,7 @@
 <div id="center">
     <hr id="horizontal">
         <div>
-            <p>- Boise State abraxans -</p>
+            <p>- Nomads Quidditch -</p>
             <br />
               <a href="https://www.facebook.com/NMDQuidditch/"><i id="social-fb" class="fa fa-facebook-square fa-3x social"></i></a>
 	            <a href="https://twitter.com/NMDquidditch"><i id="social-tw" class="fa fa-twitter-square fa-3x social"></i></a>
