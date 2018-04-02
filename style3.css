@@ -113,10 +113,10 @@ div.img {
     margin: 5px;
     border: 1px solid #ccc;
     float: center;
-    width: 700px;
+    width: 80%;
     height: auto;
-    margin-left: 150px;
-    margin-right: 150px;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 div.imgRoster {
