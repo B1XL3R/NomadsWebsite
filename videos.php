@@ -10,6 +10,7 @@
       <li><a class=active href="videos.php">Videos</a></li>
       <li><a href="practices.php">Practices</a></li>
       <li><a href="announcements.php">Announcements</a></li>
+      <li><a href="login.php">Login</a></li>
     </ul>
   </div>
 
